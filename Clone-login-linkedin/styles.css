@@ -1,0 +1,102 @@
+body {
+    background-image: url(background.jpg)
+}
+
+.foto-topo {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-left: 3%;
+    font-family:'Times New Roman', Times, serif
+}
+
+a {
+    text-decoration: none;
+    color: #0074d1;
+}
+
+span {
+    color: #0074d1;
+}
+
+.sessao-login {
+    text-align: center;
+    background: white;
+    margin-left: 35%;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    height: 500px;
+    width: 600px;
+}
+
+p {
+    font-size: 18px;
+    opacity: 0.5;
+}
+
+.text-email {
+    margin-left: -77%;
+    margin-bottom: -20px;
+}
+
+input[type="email"] {
+    width: 500px;
+    height: 30px;
+}
+
+.text-senha {
+    margin-left: -41%;
+    margin-bottom: -20px;
+}
+
+input[type="password"] {
+    width: 500px;
+    height: 30px;
+}
+
+.text-termos {
+    font-size: 18px;
+}
+
+input[type="submit"] {
+    color: white;
+    background: #0074d1;
+    font-size: 21px;
+    padding: 0px;
+    width: 500px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.line1 {
+    width: 220px;
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+.text-or {
+    margin-top: -5%;
+    margin-left: 2%;
+}
+
+.line2 {
+    width: 200px;
+    margin-left: 55%;
+    margin-top: -5%;
+    margin-bottom: 50px;
+}
+
+button {
+    background: white;
+    color: #0074d1;
+    font-size: 20px;
+    padding: 20px;
+    padding-bottom: 40px;
+    width: 500px;
+    height: 50px;
+    border-radius: 30px;
+    border-color: #0074d1;
+}
